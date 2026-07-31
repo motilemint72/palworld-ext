@@ -2,8 +2,8 @@
   <img width="686" height="386" alt="Palworld Mod Menu Banner" src="https://github.com/Clawzurcontemplate/palworld-ext/blob/main/image.png?raw=true" />
 </p>
 
-<h1 align="center">🦄 Palworld External Mod Menu</h1>
-<p align="center"><b>External cheat & customization menu for Palworld — resources, taming, exploration, and more.</b></p>
+<h1 align="center">🦄 Palworld External Cheat Mod Menu</h1>
+<p align="center"><b>External cheat & customization hack menu for Palworld — resources, taming, exploration, and more.</b></p>
 
 <p align="center">
   <img alt="platform" src="https://img.shields.io/badge/platform-Windows-blue">
