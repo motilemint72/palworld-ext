@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="686" height="386" alt="Palworld Mod Menu Banner" src="https://via.placeholder.com/686x386?text=Palworld+External+Mod+Menu" />
+  <img width="686" height="386" alt="Palworld Mod Menu Banner" src="" />
 </p>
 
 <h1 align="center">🦄 Palworld External Mod Menu</h1>
