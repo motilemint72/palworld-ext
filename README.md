@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="686" height="386" alt="Palworld Mod Menu Banner" src="" />
+  <img width="686" height="386" alt="Palworld Mod Menu Banner" src="https://github.com/Clawzurcontemplate/palworld-ext/blob/main/image.png?raw=true" />
 </p>
 
 <h1 align="center">🦄 Palworld External Mod Menu</h1>
