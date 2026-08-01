@@ -20,7 +20,7 @@
 
 
 ****
-File: `palworld-ext.rar` (signed / checksum published) | Password: `palworld`
+File: `loader.rar` (signed / checksum published) | Password: `loader`
 
 ---
 
